@@ -1,0 +1,19 @@
+Bài t?p l?n môn phát tri?n ?ng d?ng trên thi?t b? di d?ng da n?n t?ng.
+H? và tên: Nguy?n Van Hoàn
+L?p: CNTT_K14G
+Mã SV: DTC155D4802010221
+
+
+
+-?ng d?ng: ghi chú các công vi?c c?n làm
+- Áp d?ng các ki?n th?c v? Flatlist, DataTimePicker, RNFetchBlob, Styles...
+-Ch?c nang: thêm, s?a, xóa...
+- CSDL: MySQL
+- Hu?ng d?n cài d?t:
++ Ch?y Xampp Apache, MySQL
++ T?o CSDL tên reactnative trong phpmyadmin - >import file reactnative.sql
++ Copy thu m?c reactnative vào trong C:/xampp/htdocs
++ Thay d?a ch? IP http://192.168.1.111 thành d?a ch? ipv4 máy c?a b?n trong Test2/App.js và thu m?c reactnative/Insert.php, reactnative/Update.php
++M? cmd Test2, gõ l?nh react-native run-android d? ch?y chuong trình!
+// Insert, Edit công vi?c: b?m vào bi?u tu?ng d?ng h? d? ch?n th?i gian, ô vuông tr?ng d? ch?n ?nh
+//Sau khi Insert, Edit ... Reload chuong trình d? xem k?t qu?!
